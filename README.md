@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GasparOjeda
+- 👋 Hi, I’m @gasparojeda
 - 👀 I’m interested in how to make amicable websites for everybody
 - 🌱 I’m currently learning HTML, CSS, SASS and Bootstrap
 - 💞️ I’m looking to collaborate on e-commerce projects
